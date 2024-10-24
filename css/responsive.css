@@ -1,0 +1,5 @@
+@media  only screen and (min-width:200px) and (max-width:991px) {
+    .social_area{max-width: 427px;}
+    .inner_menu{background: none;}
+    .inner_menu::after{display: none;}
+}
